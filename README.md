@@ -1,4 +1,7 @@
 # Soil-Moisture-Monitoring-App
-thesis android application
+#android application
+#arduino code
+#documentation
 
-#keanu dela cruz
+
+
